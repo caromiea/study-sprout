@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Study Sprout",
+  "short_name": "Study Sprout",
+  "description": "A friendly study planner for Singapore secondary students.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#fcf4fb",
+  "theme_color": "#76538c",
+  "icons": [
+    {
+      "src": "assets/app-icon-192-v1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512-v1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
